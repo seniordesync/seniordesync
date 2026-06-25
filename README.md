@@ -22,8 +22,8 @@ I am a developer with a strong focus on systems programming and modern web techn
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seniordesync&show_icons=true&theme=catppuccin_macchiato&hide_border=true&bg_color=24273A" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniordesync&layout=compact&theme=catppuccin_macchiato&hide_border=true&bg_color=24273A" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seniordesync&show_icons=true&hide_border=true&title_color=C6A0F6&text_color=CAD3F5&icon_color=F5BDE6&bg_color=24273A" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniordesync&layout=compact&hide_border=true&title_color=C6A0F6&text_color=CAD3F5&bg_color=24273A" alt="Top Langs" width="48%" />
 </div>
 
 <br>
