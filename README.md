@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Coding Animation" width="400" />
+  <img src="assets/header.png" alt="Header Artwork" width="600" />
   <br>
   
   <a href="https://github.com/seniordesync">
