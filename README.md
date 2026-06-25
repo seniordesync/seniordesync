@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.png" alt="Header Artwork" width="600" />
+  <img src="assets/animated_abstract.svg" alt="Animated Header Artwork" width="600" />
   <br>
   
   <a href="https://github.com/seniordesync">
