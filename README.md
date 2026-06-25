@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C6A0F6&height=250&section=header&text=Alexander&fontSize=80&fontColor=CAD3F5&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Coding Animation" width="400" />
+  <br>
   
   <a href="https://github.com/seniordesync">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=CAD3F5&center=true&vCenter=true&width=500&lines=Building+High-Performance+Systems;Focusing+on+Rust+%26+Python;Crafting+Modern+Web+Applications" alt="Typing SVG" />
@@ -37,6 +38,4 @@ I am a developer with a strong focus on systems programming and modern web techn
   <a href="https://discord.com/users/senior_desync"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C6A0F6&height=100&section=footer" alt="Footer" />
-</div>
+
