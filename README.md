@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Alexander&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header" />
   
   <a href="https://github.com/seniordesync">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Vibecoding+Enthusiast;Learning+Rust+%26+Python;Web+Development;Building+Cool+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Passionate+Developer;Learning+Rust+%26+Python;Web+Development;Building+Cool+Things" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,js,html,css,git,linux,vscode&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=rust,python,js,html,css&theme=dark" alt="Skills" />
 </div>
 
 ## 💻 Spotlight Projects
