@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=C6A0F6,F5BDE6,F5C2E7,8AADF4&height=250&section=header&text=Alexander&fontSize=80&fontColor=CAD3F5&animation=fadeIn&fontAlignY=35&desc=Systems%20%26%20Web%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C6A0F6&height=250&section=header&text=Alexander&fontSize=80&fontColor=CAD3F5&animation=fadeIn&fontAlignY=35" alt="Header" />
   
   <a href="https://github.com/seniordesync">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=CAD3F5&center=true&vCenter=true&width=500&lines=Building+High-Performance+Systems;Focusing+on+Rust+%26+Python;Crafting+Modern+Web+Applications" alt="Typing SVG" />
@@ -38,5 +38,5 @@ I am a developer with a strong focus on systems programming and modern web techn
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=C6A0F6,F5BDE6,F5C2E7,8AADF4&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C6A0F6&height=100&section=footer" alt="Footer" />
 </div>
