@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Alexander&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD1DC,E0BBE4,D291BC,957DAD&height=250&section=header&text=Alexander&fontSize=80&fontColor=4A4A4A&animation=fadeIn&fontAlignY=35&desc=Systems%20%26%20Web%20Developer&descAlignY=55&descAlign=50" alt="Header" />
   
   <a href="https://github.com/seniordesync">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Passionate+Developer;Learning+Rust+%26+Python;Web+Development;Building+Cool+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=4A4A4A&center=true&vCenter=true&width=500&lines=Building+High-Performance+Systems;Focusing+on+Rust+%26+Python;Crafting+Modern+Web+Applications" alt="Typing SVG" />
   </a>
 </div>
 
 ## 🚀 About Me
-<div align="center">
-  <p>I'm passionate about programming and technology. I love experimenting with code, building interesting projects, and continuously expanding my skills.</p>
-</div>
+I am a developer with a strong focus on systems programming and modern web technologies. I specialize in building efficient, reliable software architectures. My current work revolves around leveraging **Rust** for high-performance backend systems and **Python** for automation. On the frontend, I build intuitive client-side applications using modern JavaScript.
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,js,html,css&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=rust,python,js,html,css&theme=light" alt="Skills" />
 </div>
 
 ## 💻 Spotlight Projects
@@ -24,14 +22,14 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seniordesync&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniordesync&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seniordesync&show_icons=true&theme=catppuccin_latte&hide_border=true&bg_color=F4F4F5" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniordesync&layout=compact&theme=catppuccin_latte&hide_border=true&bg_color=F4F4F5" alt="Top Langs" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seniordesync&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seniordesync&theme=catppuccin_latte&hide_border=true&background=F4F4F5" alt="GitHub Streak" />
 </div>
 
 ## 📫 Contact
@@ -40,5 +38,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD1DC,E0BBE4,D291BC,957DAD&height=100&section=footer" alt="Footer" />
 </div>
