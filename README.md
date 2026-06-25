@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="assets/animated_abstract.svg" alt="Animated Header Artwork" width="600" />
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C6A0F6&height=250&section=header&text=Alexander&fontSize=80&fontColor=CAD3F5&animation=fadeIn&fontAlignY=35" alt="Header" />
   
   <a href="https://github.com/seniordesync">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=CAD3F5&center=true&vCenter=true&width=500&lines=Building+High-Performance+Systems;Focusing+on+Rust+%26+Python;Crafting+Modern+Web+Applications" alt="Typing SVG" />
@@ -35,7 +34,14 @@ I am a developer with a strong focus on systems programming and modern web techn
 
 ## 📫 Contact
 <div align="center">
-  <a href="https://discord.com/users/senior_desync"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <p><em>Click the Discord icon below to add me!</em> 👇</p>
+  <a href="https://discordapp.com/users/senior_desync">
+    <img src="https://img.shields.io/badge/Discord-Click_to_Add!-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <br>
+  <p><sup>(Or just copy my username: <code>senior_desync</code>)</sup></p>
 </div>
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C6A0F6&height=100&section=footer" alt="Footer" />
+</div>
