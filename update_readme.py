@@ -2,6 +2,7 @@ import os
 import json
 import urllib.request
 import urllib.error
+import urllib.parse
 
 USERNAME = "seniordesync"
 API_URL = f"https://api.github.com/users/{USERNAME}/repos?per_page=100&type=owner"
@@ -52,14 +53,22 @@ def update_readme():
         
         emoji = EMOJI_MAP.get(name, DEFAULT_EMOJI)
         
+        # Create a purple badge for the repository name
+        safe_name = urllib.parse.quote(name).replace("-", "--")
+        repo_badge = f"[![{name}](https://img.shields.io/badge/{safe_name}-C6A0F6?style=flat)]({url})"
+        
         # Build the name column with an optional open button for live apps
         if has_pages:
             pages_url = f"https://{USERNAME}.github.io/{name}"
-            name_cell = f"[![Open](https://img.shields.io/badge/Open-2ea043?style=flat)]({pages_url}) {emoji} **[{name}]({url})**"
+            open_badge = f"[![Open](https://img.shields.io/badge/Open-2ea043?style=flat)]({pages_url})"
+            name_cell = f"{emoji} {open_badge} {repo_badge}"
         else:
-            name_cell = f"{emoji} **[{name}]({url})**"
+            name_cell = f"{emoji} {repo_badge}"
             
-        row = f"| {name_cell} | {desc} |"
+        # Wrap description in <sub> to make it smaller and save space
+        small_desc = f"<sub>{desc}</sub>"
+            
+        row = f"| {name_cell} | {small_desc} |"
         table_lines.append(row)
         
     table_content = "\n".join(table_lines)
