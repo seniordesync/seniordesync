@@ -52,11 +52,12 @@ def update_readme():
         
         emoji = EMOJI_MAP.get(name, DEFAULT_EMOJI)
         
-        # Format name column with optional Live App link
-        name_cell = f"{emoji} **[{name}]({url})**"
+        # Build the name column with an optional play icon for live apps
         if has_pages:
             pages_url = f"https://{USERNAME}.github.io/{name}"
-            name_cell += f"<br>[**`🚀 Open App`**]({pages_url})"
+            name_cell = f"[▶️]({pages_url}) {emoji} **[{name}]({url})**"
+        else:
+            name_cell = f"{emoji} **[{name}]({url})**"
             
         row = f"| {name_cell} | {desc} |"
         table_lines.append(row)
