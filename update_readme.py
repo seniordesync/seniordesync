@@ -52,10 +52,10 @@ def update_readme():
         
         emoji = EMOJI_MAP.get(name, DEFAULT_EMOJI)
         
-        # Build the name column with an optional play icon for live apps
+        # Build the name column with an optional open button for live apps
         if has_pages:
             pages_url = f"https://{USERNAME}.github.io/{name}"
-            name_cell = f"[▶️]({pages_url}) {emoji} **[{name}]({url})**"
+            name_cell = f"[![Open](https://img.shields.io/badge/Open-2ea043?style=flat)]({pages_url}) {emoji} **[{name}]({url})**"
         else:
             name_cell = f"{emoji} **[{name}]({url})**"
             
