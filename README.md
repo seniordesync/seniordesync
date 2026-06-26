@@ -9,6 +9,8 @@
 ## 🚀 About Me
 I am a developer with a strong focus on systems programming and modern web technologies. I specialize in building efficient, reliable software architectures. My current work revolves around leveraging **Rust** for high-performance backend systems and **Python** for automation. On the frontend, I build intuitive client-side applications using modern JavaScript.
 
+💬 **Languages:** Russian (Native), English (B1 - Confident reading & technical comprehension).
+
 ## 🛠️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust,python,js,html,css&theme=dark" alt="Skills" />
@@ -17,7 +19,7 @@ I am a developer with a strong focus on systems programming and modern web techn
 ## 💻 Spotlight Projects
 | Project | Description |
 |---|---|
-| 🐙 **[OctoClash](https://github.com/seniordesync/OctoClash)** | A fast, fully client-side web app to compare multiple GitHub repositories side-by-side. |
+| 🐙 **[OctoClash](https://github.com/seniordesync/OctoClash)** | A fast, fully client-side web app to compare multiple GitHub repositories side-by-side. <br><a href="https://seniordesync.github.io/OctoClash"><img src="https://img.shields.io/badge/🚀_LAUNCH_APP-FF416C?style=for-the-badge" height="22" alt="Launch OctoClash"></a> |
 | 🐧 **[Linux-Graph](https://github.com/seniordesync/Linux-Graph)** | An interactive graph of Linux package dependencies with search and detailed information. |
 
 ## 📊 GitHub Analytics
