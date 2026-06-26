@@ -20,7 +20,7 @@ I am a developer with a strong focus on systems programming and modern web techn
 <!-- PROJECTS_START -->
 | Project | Description |
 |---|---|
-| 🐙 **[OctoClash](https://github.com/seniordesync/OctoClash)** | A fast, fully client-side web app to compare multiple GitHub repositories side-by-side using the Primer Design System. [**`✨ Live App`**](https://seniordesync.github.io/OctoClash) |
+| 🐙 **[OctoClash](https://github.com/seniordesync/OctoClash)**<br>[**`🚀 Open App`**](https://seniordesync.github.io/OctoClash) | A fast, fully client-side web app to compare multiple GitHub repositories side-by-side using the Primer Design System. |
 | 🐧 **[Linux-Graph](https://github.com/seniordesync/Linux-Graph)** | Interactive graph of Linux package dependencies with search and package details |
 <!-- PROJECTS_END -->
 
